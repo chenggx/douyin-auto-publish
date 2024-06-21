@@ -1,0 +1,6 @@
+./node_modules
+.idea
+DS_Store
+video.mp4
+cookies.json
+localStorage.json
